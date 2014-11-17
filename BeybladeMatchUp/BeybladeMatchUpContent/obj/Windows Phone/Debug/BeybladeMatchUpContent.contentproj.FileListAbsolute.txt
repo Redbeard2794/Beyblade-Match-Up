@@ -1,0 +1,2 @@
+E:\BeybladeMatchUp\BeybladeMatchUp\BeybladeMatchUpContent\obj\Windows Phone\Debug\BeybladeMatchUpContent.contentprojResolveAssemblyReference.cache
+F:\BeybladeMatchUp\BeybladeMatchUp\BeybladeMatchUpContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
